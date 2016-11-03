@@ -4,7 +4,7 @@ This project will show how to create un-bundled components for usage in other pr
 
 ## What we are going to do:
 
-2. *Publish component*
+**NOTHING LEFT**
 
 ## What is finished:
 
@@ -18,4 +18,10 @@ This project will show how to create un-bundled components for usage in other pr
 4. Compile component
     ```
     tsc
+    ```
+5. *Publish component*
+    * For the presentation it is enough to push the results to github
+    * Standard publish to npm (User required, package.json has to well configured):
+    ```
+    npm publish
     ```
