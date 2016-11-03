@@ -4,7 +4,6 @@ This project will show how to create un-bundled components for usage in other pr
 
 ## What we are going to do:
 
-1. Create entry point
 2. Compile component
 3. *Publish component*
 
@@ -14,3 +13,6 @@ This project will show how to create un-bundled components for usage in other pr
     * Add config files 
     * Move dependencies to devDependencies
 2. Create component to use in other projects
+3. Create entry point
+    * Create index files to barrel all components
+    * Only one main file should be exporting public interfaces
