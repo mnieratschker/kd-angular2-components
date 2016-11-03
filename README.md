@@ -4,8 +4,8 @@ This project will show how to create un-bundled components for usage in other pr
 
 ## What we are going to do:
 
-2. Compile component
-3. *Publish component*
+1. Compile component
+2. *Publish component*
 
 ## What is finished:
 
