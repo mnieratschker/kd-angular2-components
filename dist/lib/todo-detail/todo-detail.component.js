@@ -8,22 +8,22 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 import { Component, Input } from '@angular/core';
-export var TodoListComponent = (function () {
-    function TodoListComponent() {
+export var TodoDetailComponent = (function () {
+    function TodoDetailComponent() {
     }
-    TodoListComponent.prototype.ngOnInit = function () { };
+    TodoDetailComponent.prototype.ngOnInit = function () { };
     __decorate([
         Input(), 
         __metadata('design:type', String)
-    ], TodoListComponent.prototype, "todo", void 0);
-    TodoListComponent = __decorate([
+    ], TodoDetailComponent.prototype, "todo", void 0);
+    TodoDetailComponent = __decorate([
         Component({
             selector: 'app-todo-detail',
             template: "\n  <div class=\"col s1\">\n    <span class=\"flow-text\">Todo:</span>\n  </div>\n  <div class=\"col s11\">\n    <span class=\"flow-text\">{{todo}}</span>\n  </div>\n  ",
             styles: [""]
         }), 
         __metadata('design:paramtypes', [])
-    ], TodoListComponent);
-    return TodoListComponent;
+    ], TodoDetailComponent);
+    return TodoDetailComponent;
 }());
 //# sourceMappingURL=C:/Development/kd/kd-angular2-components/lib/todo-detail/todo-detail.component.js.map

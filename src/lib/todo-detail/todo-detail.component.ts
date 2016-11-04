@@ -12,7 +12,7 @@ import { Component, OnInit, Input } from '@angular/core';
   `,
   styles: [""]
 })
-export class TodoListComponent implements OnInit {
+export class TodoDetailComponent implements OnInit {
 
   @Input() todo: string;
 
