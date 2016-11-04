@@ -26,4 +26,4 @@ export var TodoListComponent = (function () {
     ], TodoListComponent);
     return TodoListComponent;
 }());
-//# sourceMappingURL=D:/Developement/git/kd-angular2-components/lib/todo-detail/todo-detail.component.js.map
+//# sourceMappingURL=C:/Development/kd/kd-angular2-components/lib/todo-detail/todo-detail.component.js.map
